@@ -19,6 +19,7 @@ Please obtain an OneSignal account and activate the web settings.
 
 And Please prepare the following files:
 ```
+public/image.jpg
 public/favicon.ico
 public/icon-192x192.png 
 public/icon-256x256.png
