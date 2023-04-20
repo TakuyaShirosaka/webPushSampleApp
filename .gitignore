@@ -1,0 +1,14 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+.DS_Store
+public/icon-192x192.png
+public/icon-256x256.png
+public/icon-384x384.png
+public/icon-512x512.png
+public/favicon.ico

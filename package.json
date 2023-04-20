@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.16.3",
+    "@nuxt/typescript-build": "^3.0.1",
+    "@types/node": "^18.15.12",
+    "nuxt": "^3.4.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@onesignal/onesignal-vue3": "^1.0.2"
+  }
+}
