@@ -7,6 +7,7 @@ node_modules
 .env
 dist
 .DS_Store
+public/image.jpg
 public/icon-192x192.png
 public/icon-256x256.png
 public/icon-384x384.png
